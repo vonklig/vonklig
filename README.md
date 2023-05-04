@@ -1,16 +1,13 @@
-### Hi there 👋
+##boas vindas ao meu perfil
 
-<!--
-**vonklig/vonklig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e sthefanny
 
-Here are some ideas to get you started:
+-estou amando o alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou me desenvoln  no  alura
+
+##voce entra em contato comigo
+
+-Sthefanny.rodrigues@escola.pr.gov.br
+
+![](https://media.tenor.com/6sDGlyGFlr4AAAAS/fla-tv-flamengo.gif)
