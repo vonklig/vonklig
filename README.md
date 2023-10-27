@@ -4,7 +4,7 @@ meu nome e sthefanny
 
 -estou amando o alura
 
--estou me desenvoln  no  alura
+-estou me desenvolvendo  no  alura
 
 ##voce entra em contato comigo
 
